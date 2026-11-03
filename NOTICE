@@ -1,0 +1,12 @@
+ChessOS
+
+The MIT license in LICENSE covers only these files, written by Adam Ibrahim:
+  kernel.c, shell.c, chess.c, compileOS.sh
+
+These files come from the CSC 380 course framework and are not covered by it:
+  bootload.asm, lib.asm, loadFile.c, map.img, dir.img, tstprg, tstpr2, message.txt,
+  and the framework parts of kernel.asm
+
+Framework by Dr. Michael Black, American University.
+Modified over the years by Dr. Sara Sprenkle (Washington and Lee University),
+Dr. Emily Hill (Drew University) and Dr. Dave Toth (Centre College, CSC 380).

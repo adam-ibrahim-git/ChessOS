@@ -1,5 +1,8 @@
 MIT License
 
+This license covers kernel.c, shell.c, chess.c and compileOS.sh. The other
+files come from the CSC 380 course framework and are not covered; see NOTICE.
+
 Copyright (c) 2026 Adam Ibrahim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
